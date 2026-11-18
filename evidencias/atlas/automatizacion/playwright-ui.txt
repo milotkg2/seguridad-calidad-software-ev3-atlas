@@ -1,0 +1,6 @@
+UI-01 abrir http://localhost:8080
+UI-02 login jperez OK · listado visible
+UI-03 cliente Andina y contrato CT-0012 OK
+UI-04 vista auditoría OK
+RESULTADO OK · 4 pasos · 6107 ms
+DURACION_MS 6107

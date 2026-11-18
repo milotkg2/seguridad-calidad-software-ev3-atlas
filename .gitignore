@@ -1,9 +1,12 @@
 # Dependencias y compilados
 **/node_modules/
+**/package-lock.json
 **/dist/
 **/build/
 **/target/
 **/*.log
+**/test-results/
+**/playwright-report/
 
 # Secretos
 .env
