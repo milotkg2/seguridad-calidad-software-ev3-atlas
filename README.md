@@ -13,8 +13,13 @@ Aseguramiento de calidad y seguridad sobre **Atlas** (CreaLab Spa): pruebas de s
 | `docs/oficial/` | Encargo, presentación y guía del docente |
 | `docs/00_Revision_guia_y_trampas.md` | Errores y trampas de la guía (leer antes) |
 | `docs/01_Plan_de_pasos_EP3.md` | Plan de trabajo ordenado por la rúbrica |
-| `entrega/` | Informe y presentación (se agregan al avanzar) |
-| `evidencias/` | Logs y capturas de la EP3 |
+| `docs/02_Ajustes_EP1_EP2.md` | Ajustes e incidentes heredados |
+| `docs/03_Diagrama_controles.md` | Diagrama de controles → norma |
+| `docs/04_Mitigacion_y_mantenimiento.md` | Mitigación y plan de mantenimiento |
+| `docs/05_Guion_Oral_EP3.md` | Guion 10+5 min (Camilo → Alison → Macarena) |
+| `entrega/Informe_EP3_Atlas.docx` | Encargo grupal |
+| `entrega/Presentacion_EP3_Atlas.pptx` | Defensa |
+| `evidencias/atlas/` | Logs, capturas y RESULTADOS_EP3.md |
 
 ## Arranque
 
