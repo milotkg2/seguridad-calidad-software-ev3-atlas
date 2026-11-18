@@ -1,0 +1,20 @@
+# Dependencias y compilados
+**/node_modules/
+**/dist/
+**/build/
+**/target/
+**/*.log
+
+# Secretos
+.env
+.env.*
+!.env.example
+
+# Carpetas locales de respaldo o basura
+/todo/
+/_extract/
+.idea/
+.vscode/
+*.tmp
+Thumbs.db
+Desktop.ini
